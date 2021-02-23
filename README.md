@@ -1,4 +1,4 @@
-## Cauê Santos
+# Cauê Santos
 
 :computer: Front-end Developer
 
