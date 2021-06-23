@@ -1,11 +1,13 @@
-# Cauê Santos
+<h1 align="center">Hey there! I'm Cauê Santos :wave: </h1>
+<h3 align="center">:computer: Frontend Developer</h3>
+</br>
 
-:computer: Front-end Developer
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zlagadupro&show_icons=true&hide_border=true&theme=radical">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlagadupro&show_icons=true&hide_border=true&theme=radical&layout=compact">
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/zlagadupro/)](https://www.twitter.com/zlagadupro)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zlagadupro&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlagadupro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<p>I'm 16 years old, I live in Brazil and I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.<p>
+  
+- :seedling: I’m currently Learning more about and studying: **ReactJS, NodeJS, VueJS, Ui/Ux Design**
+- :speech_balloon: Ping me about: **web design, development, memes**
+- :mailbox: How to reach me: **[Discord](https://discord.com/app) (Cauê Santos#2215), [Twitter](https://twitter.com/zLagaduPro)**
+<!-- - :zap: Fun fact: -->
